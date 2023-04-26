@@ -2,4 +2,5 @@
 
 
 echo "$hello"
+echo "$welcome to online training....!!!!!"
 
